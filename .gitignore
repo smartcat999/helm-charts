@@ -1,1 +1,4 @@
 .idea
+vcs.xml
+modules.xml
+helm-charts.iml
